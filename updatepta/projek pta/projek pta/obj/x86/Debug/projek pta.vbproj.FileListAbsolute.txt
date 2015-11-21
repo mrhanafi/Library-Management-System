@@ -1,0 +1,258 @@
+D:\vb2010\INTERFACE\projek pta\projek pta\bin\Debug\projek pta.exe
+D:\vb2010\INTERFACE\projek pta\projek pta\bin\Debug\projek pta.pdb
+D:\vb2010\INTERFACE\projek pta\projek pta\bin\Debug\projek pta.xml
+D:\vb2010\INTERFACE\projek pta\projek pta\obj\x86\Debug\projek_pta.daftar_ahli.resources
+D:\vb2010\INTERFACE\projek pta\projek pta\obj\x86\Debug\projek_pta.daftar_user.resources
+D:\vb2010\INTERFACE\projek pta\projek pta\obj\x86\Debug\projek_pta.Form1.resources
+D:\vb2010\INTERFACE\projek pta\projek pta\obj\x86\Debug\projek_pta.halaman_masuk_admin_user.resources
+D:\vb2010\INTERFACE\projek pta\projek pta\obj\x86\Debug\projek_pta.Halaman_masuk.resources
+D:\vb2010\INTERFACE\projek pta\projek pta\obj\x86\Debug\projek_pta.laporan.resources
+D:\vb2010\INTERFACE\projek pta\projek pta\obj\x86\Debug\projek_pta.lokasi_buku.resources
+D:\vb2010\INTERFACE\projek pta\projek pta\obj\x86\Debug\projek_pta.maklumat_buku.resources
+D:\vb2010\INTERFACE\projek pta\projek pta\obj\x86\Debug\projek_pta.Resources.resources
+D:\vb2010\INTERFACE\projek pta\projek pta\obj\x86\Debug\projek_pta.PEMINJAMAN.resources
+D:\vb2010\INTERFACE\projek pta\projek pta\obj\x86\Debug\projek_pta.pemulangan.resources
+D:\vb2010\INTERFACE\projek pta\projek pta\obj\x86\Debug\projek_pta.pencarian_ringkasan.resources
+D:\vb2010\INTERFACE\projek pta\projek pta\obj\x86\Debug\projek_pta.penetapan_sistem.resources
+D:\vb2010\INTERFACE\projek pta\projek pta\obj\x86\Debug\projek pta.vbproj.GenerateResource.Cache
+D:\vb2010\INTERFACE\projek pta\projek pta\obj\x86\Debug\projek pta.exe
+D:\vb2010\INTERFACE\projek pta\projek pta\obj\x86\Debug\projek pta.xml
+D:\vb2010\INTERFACE\projek pta\projek pta\obj\x86\Debug\projek pta.pdb
+D:\vb2010\INTERFACE\projek pta\projek pta\bin\Debug\sistem pengurusan perpustakaan1.accdb
+D:\vb2010\INTERFACE\projek pta\projek pta\bin\Debug\projek pta.exe.config
+D:\vb2010\INTERFACE\projek pta\projek pta\obj\x86\Debug\projek_pta.Form2.resources
+D:\vb2010\INTERFACE\projek pta\projek pta\obj\x86\Debug\projek_pta.Form3.resources
+D:\vb2010\INTERFACE\projek pta\projek pta\obj\x86\Debug\projek_pta.senaraibuku.resources
+D:\vb2010\INTERFACE\projek pta\projek pta\obj\x86\Debug\projek_pta.senaraipeminjam.resources
+D:\vb2010\INTERFACE\projek pta\projek pta\obj\x86\Debug\projek_pta.senaraipulang.resources
+D:\vb2010\INTERFACE\projek pta\projek pta\obj\x86\Debug\projek_pta.senaraiahli.resources
+D:\vb2010\INTERFACE\projek pta\projek pta\obj\x86\Debug\projek_pta.ubahpenetapan.resources
+F:\projek pta\projek pta\bin\Debug\projek pta.exe.config
+F:\projek pta\projek pta\obj\x86\Debug\projek pta.exe
+F:\projek pta\projek pta\obj\x86\Debug\projek pta.xml
+F:\projek pta\projek pta\obj\x86\Debug\projek pta.pdb
+F:\projek pta\projek pta\bin\Debug\sistem pengurusan perpustakaan1.accdb
+F:\projek pta\projek pta\bin\Debug\projek pta.exe
+F:\projek pta\projek pta\bin\Debug\projek pta.pdb
+F:\projek pta\projek pta\bin\Debug\projek pta.xml
+F:\projek pta\projek pta\obj\x86\Debug\projek_pta.daftar_ahli.resources
+F:\projek pta\projek pta\obj\x86\Debug\projek_pta.daftar_user.resources
+F:\projek pta\projek pta\obj\x86\Debug\projek_pta.Form1.resources
+F:\projek pta\projek pta\obj\x86\Debug\projek_pta.Form2.resources
+F:\projek pta\projek pta\obj\x86\Debug\projek_pta.Form3.resources
+F:\projek pta\projek pta\obj\x86\Debug\projek_pta.halaman_masuk_admin_user.resources
+F:\projek pta\projek pta\obj\x86\Debug\projek_pta.Halaman_masuk.resources
+F:\projek pta\projek pta\obj\x86\Debug\projek_pta.laporan.resources
+F:\projek pta\projek pta\obj\x86\Debug\projek_pta.lokasi_buku.resources
+F:\projek pta\projek pta\obj\x86\Debug\projek_pta.maklumat_buku.resources
+F:\projek pta\projek pta\obj\x86\Debug\projek_pta.Resources.resources
+F:\projek pta\projek pta\obj\x86\Debug\projek_pta.PEMINJAMAN.resources
+F:\projek pta\projek pta\obj\x86\Debug\projek_pta.pemulangan.resources
+F:\projek pta\projek pta\obj\x86\Debug\projek_pta.pencarian_ringkasan.resources
+F:\projek pta\projek pta\obj\x86\Debug\projek_pta.penetapan_sistem.resources
+F:\projek pta\projek pta\obj\x86\Debug\projek_pta.senaraiahli.resources
+F:\projek pta\projek pta\obj\x86\Debug\projek_pta.senaraibuku.resources
+F:\projek pta\projek pta\obj\x86\Debug\projek_pta.senaraipeminjam.resources
+F:\projek pta\projek pta\obj\x86\Debug\projek_pta.senaraipulang.resources
+F:\projek pta\projek pta\obj\x86\Debug\projek_pta.ubahpenetapan.resources
+F:\projek pta\projek pta\obj\x86\Debug\projek pta.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\projek pta\projek pta\bin\Debug\projek pta.exe.config
+C:\Users\user\Desktop\projek pta\projek pta\obj\x86\Debug\projek pta.exe
+C:\Users\user\Desktop\projek pta\projek pta\obj\x86\Debug\projek pta.xml
+C:\Users\user\Desktop\projek pta\projek pta\obj\x86\Debug\projek pta.pdb
+C:\Users\asraf_2\Desktop\terkini\projek pta\projek pta\bin\Debug\projek pta.exe.config
+C:\Users\asraf_2\Desktop\terkini\projek pta\projek pta\obj\x86\Debug\projek pta.exe
+C:\Users\asraf_2\Desktop\terkini\projek pta\projek pta\obj\x86\Debug\projek pta.xml
+C:\Users\asraf_2\Desktop\terkini\projek pta\projek pta\obj\x86\Debug\projek pta.pdb
+C:\Users\asraf_2\Desktop\terkini\projek pta\projek pta\bin\Debug\sistem pengurusan perpustakaan1.accdb
+C:\Users\asraf_2\Desktop\terkini\projek pta\projek pta\bin\Debug\projek pta.exe
+C:\Users\asraf_2\Desktop\terkini\projek pta\projek pta\bin\Debug\projek pta.pdb
+C:\Users\asraf_2\Desktop\terkini\projek pta\projek pta\bin\Debug\projek pta.xml
+C:\Users\asraf_2\Desktop\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.daftar_ahli.resources
+C:\Users\asraf_2\Desktop\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.daftar_user.resources
+C:\Users\asraf_2\Desktop\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.Form1.resources
+C:\Users\asraf_2\Desktop\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.Form2.resources
+C:\Users\asraf_2\Desktop\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.Form3.resources
+C:\Users\asraf_2\Desktop\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.halaman_masuk_admin_user.resources
+C:\Users\asraf_2\Desktop\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.Halaman_masuk.resources
+C:\Users\asraf_2\Desktop\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.laporan.resources
+C:\Users\asraf_2\Desktop\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.lokasi_buku.resources
+C:\Users\asraf_2\Desktop\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.maklumat_buku.resources
+C:\Users\asraf_2\Desktop\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.Resources.resources
+C:\Users\asraf_2\Desktop\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.PEMINJAMAN.resources
+C:\Users\asraf_2\Desktop\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.pemulangan.resources
+C:\Users\asraf_2\Desktop\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.pencarian_ringkasan.resources
+C:\Users\asraf_2\Desktop\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.penetapan_sistem.resources
+C:\Users\asraf_2\Desktop\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.senaraiahli.resources
+C:\Users\asraf_2\Desktop\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.senaraibuku.resources
+C:\Users\asraf_2\Desktop\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.senaraipeminjam.resources
+C:\Users\asraf_2\Desktop\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.senaraipulang.resources
+C:\Users\asraf_2\Desktop\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.ubahpenetapan.resources
+C:\Users\asraf_2\Desktop\terkini\projek pta\projek pta\obj\x86\Debug\projek pta.vbproj.GenerateResource.Cache
+G:\asraf\terkini\projek pta\projek pta\bin\Debug\projek pta.exe.config
+G:\asraf\terkini\projek pta\projek pta\obj\x86\Debug\projek pta.exe
+G:\asraf\terkini\projek pta\projek pta\obj\x86\Debug\projek pta.xml
+G:\asraf\terkini\projek pta\projek pta\obj\x86\Debug\projek pta.pdb
+G:\asraf\terkini\projek pta\projek pta\bin\Debug\sistem pengurusan perpustakaan1.accdb
+G:\asraf\terkini\projek pta\projek pta\bin\Debug\projek pta.exe
+G:\asraf\terkini\projek pta\projek pta\bin\Debug\projek pta.pdb
+G:\asraf\terkini\projek pta\projek pta\bin\Debug\projek pta.xml
+G:\asraf\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.daftar_ahli.resources
+G:\asraf\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.daftar_user.resources
+G:\asraf\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.Form1.resources
+G:\asraf\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.Form2.resources
+G:\asraf\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.Form3.resources
+G:\asraf\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.halaman_masuk_admin_user.resources
+G:\asraf\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.Halaman_masuk.resources
+G:\asraf\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.laporan.resources
+G:\asraf\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.lokasi_buku.resources
+G:\asraf\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.maklumat_buku.resources
+G:\asraf\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.Resources.resources
+G:\asraf\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.PEMINJAMAN.resources
+G:\asraf\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.pemulangan.resources
+G:\asraf\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.pencarian_ringkasan.resources
+G:\asraf\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.penetapan_sistem.resources
+G:\asraf\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.senaraiahli.resources
+G:\asraf\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.senaraibuku.resources
+G:\asraf\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.senaraipeminjam.resources
+G:\asraf\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.senaraipulang.resources
+G:\asraf\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.ubahpenetapan.resources
+G:\asraf\terkini\projek pta\projek pta\obj\x86\Debug\projek pta.vbproj.GenerateResource.Cache
+F:\asraf\terkini\projek pta\projek pta\bin\Debug\projek pta.exe.config
+F:\asraf\terkini\projek pta\projek pta\obj\x86\Debug\projek pta.exe
+F:\asraf\terkini\projek pta\projek pta\obj\x86\Debug\projek pta.xml
+F:\asraf\terkini\projek pta\projek pta\obj\x86\Debug\projek pta.pdb
+F:\asraf\terkini\projek pta\projek pta\bin\Debug\sistem pengurusan perpustakaan1.accdb
+F:\asraf\terkini\projek pta\projek pta\bin\Debug\projek pta.exe
+F:\asraf\terkini\projek pta\projek pta\bin\Debug\projek pta.pdb
+F:\asraf\terkini\projek pta\projek pta\bin\Debug\projek pta.xml
+F:\asraf\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.daftar_ahli.resources
+F:\asraf\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.daftar_user.resources
+F:\asraf\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.Form1.resources
+F:\asraf\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.Form2.resources
+F:\asraf\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.Form3.resources
+F:\asraf\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.halaman_masuk_admin_user.resources
+F:\asraf\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.Halaman_masuk.resources
+F:\asraf\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.laporan.resources
+F:\asraf\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.lokasi_buku.resources
+F:\asraf\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.maklumat_buku.resources
+F:\asraf\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.Resources.resources
+F:\asraf\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.PEMINJAMAN.resources
+F:\asraf\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.pemulangan.resources
+F:\asraf\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.pencarian_ringkasan.resources
+F:\asraf\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.penetapan_sistem.resources
+F:\asraf\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.senaraiahli.resources
+F:\asraf\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.senaraibuku.resources
+F:\asraf\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.senaraipeminjam.resources
+F:\asraf\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.senaraipulang.resources
+F:\asraf\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.ubahpenetapan.resources
+F:\asraf\terkini\projek pta\projek pta\obj\x86\Debug\projek pta.vbproj.GenerateResource.Cache
+D:\terkini\projek pta\projek pta\bin\Debug\projek pta.exe.config
+D:\terkini\projek pta\projek pta\obj\x86\Debug\projek pta.exe
+D:\terkini\projek pta\projek pta\obj\x86\Debug\projek pta.xml
+D:\terkini\projek pta\projek pta\obj\x86\Debug\projek pta.pdb
+D:\terkini\projek pta\projek pta\bin\Debug\sistem pengurusan perpustakaan1.accdb
+D:\terkini\projek pta\projek pta\bin\Debug\projek pta.exe
+D:\terkini\projek pta\projek pta\bin\Debug\projek pta.pdb
+D:\terkini\projek pta\projek pta\bin\Debug\projek pta.xml
+D:\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.daftar_ahli.resources
+D:\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.daftar_user.resources
+D:\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.Form1.resources
+D:\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.Form2.resources
+D:\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.Form3.resources
+D:\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.halaman_masuk_admin_user.resources
+D:\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.Halaman_masuk.resources
+D:\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.laporan.resources
+D:\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.lokasi_buku.resources
+D:\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.maklumat_buku.resources
+D:\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.Resources.resources
+D:\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.PEMINJAMAN.resources
+D:\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.pemulangan.resources
+D:\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.pencarian_ringkasan.resources
+D:\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.penetapan_sistem.resources
+D:\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.senaraiahli.resources
+D:\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.senaraibuku.resources
+D:\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.senaraipeminjam.resources
+D:\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.senaraipulang.resources
+D:\terkini\projek pta\projek pta\obj\x86\Debug\projek_pta.ubahpenetapan.resources
+D:\terkini\projek pta\projek pta\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\terkini\projek pta\projek pta\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\terkini\projek pta\projek pta\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\updatepta\projek pta\projek pta\bin\Debug\projek pta.exe.config
+D:\updatepta\projek pta\projek pta\obj\x86\Debug\projek pta.exe
+D:\updatepta\projek pta\projek pta\obj\x86\Debug\projek pta.xml
+D:\updatepta\projek pta\projek pta\obj\x86\Debug\projek pta.pdb
+D:\updatepta\projek pta\projek pta\bin\Debug\sistem pengurusan perpustakaan1.accdb
+D:\updatepta\projek pta\projek pta\bin\Debug\projek pta.exe
+D:\updatepta\projek pta\projek pta\bin\Debug\projek pta.pdb
+D:\updatepta\projek pta\projek pta\bin\Debug\projek pta.xml
+D:\updatepta\projek pta\projek pta\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\updatepta\projek pta\projek pta\obj\x86\Debug\projek_pta.daftar_ahli.resources
+D:\updatepta\projek pta\projek pta\obj\x86\Debug\projek_pta.daftar_user.resources
+D:\updatepta\projek pta\projek pta\obj\x86\Debug\projek_pta.Form1.resources
+D:\updatepta\projek pta\projek pta\obj\x86\Debug\projek_pta.Form2.resources
+D:\updatepta\projek pta\projek pta\obj\x86\Debug\projek_pta.Form3.resources
+D:\updatepta\projek pta\projek pta\obj\x86\Debug\projek_pta.halaman_masuk_admin_user.resources
+D:\updatepta\projek pta\projek pta\obj\x86\Debug\projek_pta.Halaman_masuk.resources
+D:\updatepta\projek pta\projek pta\obj\x86\Debug\projek_pta.laporan.resources
+D:\updatepta\projek pta\projek pta\obj\x86\Debug\projek_pta.lokasi_buku.resources
+D:\updatepta\projek pta\projek pta\obj\x86\Debug\projek_pta.maklumat_buku.resources
+D:\updatepta\projek pta\projek pta\obj\x86\Debug\projek_pta.Resources.resources
+D:\updatepta\projek pta\projek pta\obj\x86\Debug\projek_pta.PEMINJAMAN.resources
+D:\updatepta\projek pta\projek pta\obj\x86\Debug\projek_pta.pemulangan.resources
+D:\updatepta\projek pta\projek pta\obj\x86\Debug\projek_pta.pencarian_ringkasan.resources
+D:\updatepta\projek pta\projek pta\obj\x86\Debug\projek_pta.penetapan_sistem.resources
+D:\updatepta\projek pta\projek pta\obj\x86\Debug\projek_pta.senaraiahli.resources
+D:\updatepta\projek pta\projek pta\obj\x86\Debug\projek_pta.senaraibuku.resources
+D:\updatepta\projek pta\projek pta\obj\x86\Debug\projek_pta.senaraipeminjam.resources
+D:\updatepta\projek pta\projek pta\obj\x86\Debug\projek_pta.senaraipulang.resources
+D:\updatepta\projek pta\projek pta\obj\x86\Debug\projek_pta.ubahpenetapan.resources
+D:\updatepta\projek pta\projek pta\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\updatepta\projek pta\projek pta\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\updatepta\projek pta\projek pta\bin\Debug\projek pta.exe.manifest
+D:\updatepta\projek pta\projek pta\bin\Debug\projek pta.application
+D:\updatepta\projek pta\projek pta\obj\x86\Debug\projek pta.exe.manifest
+D:\updatepta\projek pta\projek pta\obj\x86\Debug\projek pta.application
+D:\updatepta\projek pta\projek pta\obj\x86\Debug\projek_pta.ubahahli.resources
+E:\updatepta\projek pta\projek pta\bin\Debug\projek pta.exe.config
+E:\updatepta\projek pta\projek pta\obj\x86\Debug\projek pta.exe
+E:\updatepta\projek pta\projek pta\obj\x86\Debug\projek pta.xml
+E:\updatepta\projek pta\projek pta\obj\x86\Debug\projek pta.pdb
+E:\updatepta\projek pta\projek pta\bin\Debug\sistem pengurusan perpustakaan1.accdb
+E:\updatepta\projek pta\projek pta\bin\Debug\projek pta.exe.manifest
+E:\updatepta\projek pta\projek pta\bin\Debug\projek pta.application
+E:\updatepta\projek pta\projek pta\bin\Debug\projek pta.exe
+E:\updatepta\projek pta\projek pta\bin\Debug\projek pta.pdb
+E:\updatepta\projek pta\projek pta\bin\Debug\projek pta.xml
+E:\updatepta\projek pta\projek pta\obj\x86\Debug\projek_pta.daftar_ahli.resources
+E:\updatepta\projek pta\projek pta\obj\x86\Debug\projek_pta.daftar_user.resources
+E:\updatepta\projek pta\projek pta\obj\x86\Debug\projek_pta.Form1.resources
+E:\updatepta\projek pta\projek pta\obj\x86\Debug\projek_pta.Form2.resources
+E:\updatepta\projek pta\projek pta\obj\x86\Debug\projek_pta.Form3.resources
+E:\updatepta\projek pta\projek pta\obj\x86\Debug\projek_pta.halaman_masuk_admin_user.resources
+E:\updatepta\projek pta\projek pta\obj\x86\Debug\projek_pta.Halaman_masuk.resources
+E:\updatepta\projek pta\projek pta\obj\x86\Debug\projek_pta.laporan.resources
+E:\updatepta\projek pta\projek pta\obj\x86\Debug\projek_pta.lokasi_buku.resources
+E:\updatepta\projek pta\projek pta\obj\x86\Debug\projek_pta.maklumat_buku.resources
+E:\updatepta\projek pta\projek pta\obj\x86\Debug\projek_pta.Resources.resources
+E:\updatepta\projek pta\projek pta\obj\x86\Debug\projek_pta.PEMINJAMAN.resources
+E:\updatepta\projek pta\projek pta\obj\x86\Debug\projek_pta.pemulangan.resources
+E:\updatepta\projek pta\projek pta\obj\x86\Debug\projek_pta.pencarian_ringkasan.resources
+E:\updatepta\projek pta\projek pta\obj\x86\Debug\projek_pta.penetapan_sistem.resources
+E:\updatepta\projek pta\projek pta\obj\x86\Debug\projek_pta.senaraiahli.resources
+E:\updatepta\projek pta\projek pta\obj\x86\Debug\projek_pta.senaraibuku.resources
+E:\updatepta\projek pta\projek pta\obj\x86\Debug\projek_pta.senaraipeminjam.resources
+E:\updatepta\projek pta\projek pta\obj\x86\Debug\projek_pta.senaraipulang.resources
+E:\updatepta\projek pta\projek pta\obj\x86\Debug\projek_pta.ubahahli.resources
+E:\updatepta\projek pta\projek pta\obj\x86\Debug\projek_pta.ubahpenetapan.resources
+E:\updatepta\projek pta\projek pta\obj\x86\Debug\projek pta.vbproj.GenerateResource.Cache
+E:\updatepta\projek pta\projek pta\obj\x86\Debug\projek pta.exe.manifest
+E:\updatepta\projek pta\projek pta\obj\x86\Debug\projek pta.application
+E:\vb\librarysystem\updatepta\projek pta\projek pta\bin\Debug\projek pta.exe.config
+E:\vb\librarysystem\updatepta\projek pta\projek pta\obj\x86\Debug\projek pta.exe
+E:\vb\librarysystem\updatepta\projek pta\projek pta\obj\x86\Debug\projek pta.xml
+E:\vb\librarysystem\updatepta\projek pta\projek pta\obj\x86\Debug\projek pta.pdb
+E:\vb\old vb\librarysystem\updatepta\projek pta\projek pta\bin\Debug\projek pta.exe.config
+E:\vb\old vb\librarysystem\updatepta\projek pta\projek pta\obj\x86\Debug\projek pta.exe
+E:\vb\old vb\librarysystem\updatepta\projek pta\projek pta\obj\x86\Debug\projek pta.xml
+E:\vb\old vb\librarysystem\updatepta\projek pta\projek pta\obj\x86\Debug\projek pta.pdb
